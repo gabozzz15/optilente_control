@@ -6,7 +6,7 @@ Sistema de gestión integral para ópticas, diseñado para facilitar el control 
 
 ## Descripción
 
-OPTILENTE 2020 es un sistema desarrollado en PHP que permite administrar de manera eficiente los recursos y operaciones de una óptica. Incluye funcionalidades para la gestión de inventarios, control de pedidos, administración de usuarios y generación de reportes en formatos PDF y Excel.
+Es un sistema desarrollado en PHP que permite administrar de manera eficiente los recursos y operaciones de una óptica. Incluye funcionalidades para la gestión de inventarios, control de pedidos, administración de usuarios y generación de reportes en formatos PDF y Excel.
 
 ## Requisitos
 
@@ -67,7 +67,4 @@ La base de datos `sistemaoptilente` contiene tablas para:
 - Comprobar que las extensiones PHP necesarias estén habilitadas.
 
 ## Autor
-
 Gabriel (gabozzz15) - Desarrollador del sistema OPTILENTE 2020
-
-© OPTILENTE 2020 - Sistema de Gestión para Ópticas
