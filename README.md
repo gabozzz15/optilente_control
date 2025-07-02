@@ -1,7 +1,5 @@
 # Sistema de Gestión OPTILENTE 2020
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/gabozzz15/optilente_control)](https://github.com/gabozzz15/optilente_control)
-[![GitHub license](https://img.shields.io/github/license/gabozzz15/optilente_control)](https://github.com/gabozzz15/optilente_control/blob/main/LICENSE)
 [![Top Langs](https://img.shields.io/github/languages/top/gabozzz15/optilente_control)](https://github.com/gabozzz15/optilente_control)
 
 Sistema de gestión integral para ópticas, diseñado para facilitar el control de inventarios, pedidos, proveedores, empleados y reportes.
