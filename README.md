@@ -4,6 +4,10 @@
 
 Sistema de gestión integral para ópticas, diseñado para facilitar el control de inventarios, pedidos, proveedores, empleados y reportes.
 
+[![image.png](https://i.postimg.cc/k51JVczp/image.png)](https://postimg.cc/06SRFp8Y)
+[![image.png](https://i.postimg.cc/5t01Mzyq/image.png)](https://postimg.cc/9DvsdrGr)
+[![image.png](https://i.postimg.cc/wxsqvDVw/image.png)](https://postimg.cc/bdpcVD4n)
+
 ## Descripción
 
 Es un sistema desarrollado en PHP que permite administrar de manera eficiente los recursos y operaciones de una óptica. Incluye funcionalidades para la gestión de inventarios, control de pedidos, administración de usuarios y generación de reportes en formatos PDF y Excel.
