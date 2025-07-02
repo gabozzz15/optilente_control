@@ -12,7 +12,6 @@ OPTILENTE 2020 es un sistema desarrollado en PHP que permite administrar de mane
 
 - Servidor con PHP 8.1 o superior
 - Servidor MySQL 8.0 o superior
-- Extensiones PHP: php-zip, php-xml, php-gd
 - Biblioteca PhpSpreadsheet (incluida en composer.json)
 
 ## Instalación
